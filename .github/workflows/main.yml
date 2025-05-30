@@ -10,3 +10,4 @@
     else
       echo "previous_lawsuits.json does not exist yet, skipping commit"
     fi
+
